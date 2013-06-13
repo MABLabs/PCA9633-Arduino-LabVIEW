@@ -143,10 +143,10 @@ To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Ar
 	{
 		// Look for 'x' as second character as in '0x' format
 
-        	if ((p[1] == 'x') || (p[1] == 'X'))
-        		return(strtol(&p[2], (char **)0, 16));
-        	else
-        		return(strtol(p, (char **)0, 16));
+		if ((p[1] == 'x') || (p[1] == 'X'))
+			return(strtol(&p[2], (char **)0, 16));
+		else
+			return(strtol(p, (char **)0, 16));
 	}
 
 	// Write data at selected address and register
