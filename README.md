@@ -166,4 +166,4 @@ To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Ar
 ### Project Contributors ###
 
 - Richard Rasmussen
-- Martin A. Jackson
+- [Martin A. Jackson](https://github.com/mjackson/)
