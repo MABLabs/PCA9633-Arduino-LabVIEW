@@ -22,9 +22,6 @@ After installation you should have files for the Arduino, LabVIEW vis, and the s
 
 To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Arduino Toolkit (`LIFA_Base.ino sketch`) found by the LabVIEW package manager or downloaded from [National Instruments](http://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/sn/catnav:mp/q/Arduino/).
 
-### Schematic ###
-![](https://github.com/MABLabs/PCA9633-Arduino-LabVIEW/blob/master/I2C%20RGB.jpg)
-
 ### Arduino Code ###
 
 	// MBS projector
