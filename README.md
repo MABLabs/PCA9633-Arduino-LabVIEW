@@ -10,7 +10,7 @@ To download from github [http://github.com/MABLabs/PCA9633-Arduino-LabVIEW](http
     https://github.com/MABLabs/PCA9633-Arduino-LabVIEW.git
 
 ### Install ###
-To install, move the downloaded PCA9633-Arduino-LabVIEW directory of your chioice.
+To install, move the downloaded PCA9633-Arduino-LabVIEW files to the directory of your chioice.
 
 After installation you should have files for the Arduino, LabVIEW vis, and the schematic used for the PCA9633 circuit. The main files are:
 
