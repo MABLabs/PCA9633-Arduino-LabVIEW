@@ -9,7 +9,7 @@ The code will reflect this by inverting the value entered. `(ex. RGB value of 0x
 ### Download ###
 To download from github [http://github.com/MABLabs/PCA9633-Arduino-LabVIEW](http://github.com/MABLabs/PCA9633-Arduino-LabVIEW), click on the "Downloads" links above or use the git command:
 
-    $git clone https://github.com/MABLabs/PCA9633-Arduino-LabVIEW.git
+    $ git clone https://github.com/MABLabs/PCA9633-Arduino-LabVIEW.git
 
 ### Install ###
 To install, move the downloaded PCA9633-Arduino-LabVIEW files to the directory of your chioice.
@@ -24,7 +24,7 @@ To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Ar
 
 ### Arduino Code ###
 
-    	//MBS projector
+	//MBS projector
 	//PCA9633 led layout
 	// PWM Register LEDOUT Address 08H
 	// 3 2 1 0
