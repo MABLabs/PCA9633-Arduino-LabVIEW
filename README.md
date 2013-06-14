@@ -18,7 +18,7 @@ After installation you should have files for the Arduino, LabVIEW vis, and the s
 
 - **pca9633EnterVal.ino** Arduino Code (for sketch only)
 - **Arduino RGB LED I2C.vi** Main LabVIEW vi
-- **RGB to Color.vi** Sub vi for Arduin RGB LED I2C.vi 
+- **RGB to Color.vi** Sub vi for Arduino RGB LED I2C.vi 
 
 To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Arduino Toolkit (`LIFA_Base.ino sketch`) found by the LabVIEW package manager or downloaded from [National Instruments](http://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/sn/catnav:mp/q/Arduino/).
 
