@@ -20,7 +20,7 @@ After installation you should have files for the Arduino, LabVIEW vis, and the s
 - **Arduino RGB LED I2C.vi** Main LabVIEW vi
 - **RGB to Color.vi** Sub vi for Arduino RGB LED I2C.vi 
 
-To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Arduino Toolkit (`LIFA_Base.ino sketch`) found by the LabVIEW package manager or downloaded from [National Instruments](http://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/sn/catnav:mp/q/Arduino/).
+To run the LabVIEW vis you will need to download the NI LabVIEW Interface for Arduino Toolkit (`LIFA_Base.ino sketch`) found by the LabVIEW package manager or downloaded from [National Instruments](http://sine.ni.com/nips/cds/view/p/lang/en/nid/209835).
 
 ### Schematic ###
 ![](https://raw.github.com/MABLabs/PCA9633-Arduino-LabVIEW/master/I2C%20RGB.jpg)
