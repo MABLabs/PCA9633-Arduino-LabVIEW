@@ -2,7 +2,7 @@
 
 Arduino and LabVIEW code to send I2C commands for LED control of the PCA9633 chip.
 
-This project was for the development of high intensity projector modules. BS107 MOSFETs were used which power the LEDs. This caused an inversion of the signal applied. 
+This project was for the development of high intensity projector modules. BS170 MOSFETs were used which power the LEDs. This caused an inversion of the signal applied. 
 
 The code will reflect this by inverting the value entered. (`ex. RGB value of 0xFFFFFFh would be converted to 0x000000h`) If using this code for design circuits not requiring inversion then modifications to this code should be noted.
 
